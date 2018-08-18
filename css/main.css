@@ -166,12 +166,11 @@ min-width: 1000px;
     width: 1000px;
     margin: 50px auto;
     padding-bottom: 50px;
-    height: 350px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.3);
 	text-align: left;
 }
 .paper_data {
-	height:200px
+	height:400px
     padding-bottom: 50px;
     border-bottom: 1px solid rgba(0, 0, 0, 0.3);
 	text-align: left;
@@ -215,22 +214,22 @@ min-width: 1000px;
 .authors {
     display: inline-block;
     width: 100%;
-    min-width: 1800px;
+   min-width: 1000px;
     text-align: center;
     box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.2);
 }
 
 .authors > .author {
     display: inline-block;
-    margin: 5px 5px;
+    margin: 10px 10px;
 }
 
 .author .profile_picture {
     display: inline-block;
-    padding: 2px;
-    margin-right: 2px;
-    width: 20px;
-    height: 20px;
+    padding: 4px;
+    margin-right: 5px;
+    width: 25px;
+    height: 25px;
     border-radius: 50%;
     background-repeat: no-repeat;
     background-position: center center;
@@ -280,9 +279,9 @@ footer {
    ========================================================================== */
 .panels {
     display: block;
-    width: 1800px;
+    width: 1000px;
     height: 350px;
-    margin: 20px auto;
+    margin: 50px auto;
 }
 
 .panel_70, .panel_30, .panel_40, .panel_60 {
