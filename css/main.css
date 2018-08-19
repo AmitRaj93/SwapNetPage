@@ -137,7 +137,7 @@ min-width: 1000px;
     background-color: #eeb211;
     width: 100%;
    min-width: 1000px;
-    height: 150px;
+    height: 100px;
     color: #111111;
     font-family: 'Yanone Kaffeesatz', sans-serif;
     font-size: 60px;
@@ -294,6 +294,9 @@ footer {
 }
 .panel_50 {
    padding-bottom: 50px;
+}
+.panel_49 {
+   width: 49%;
 }
 
 .panel_30 {
